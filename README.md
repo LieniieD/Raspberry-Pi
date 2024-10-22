@@ -18,4 +18,7 @@ Turn your Raspberry Pi into a Network Attached Storage (NAS) device using tools 
 - [Useful Commands](#useful-commands)
 - [Conclusion](#conclusion)
 
-hello
+
+https://youtu.be/jsKqQvFk7Sk?si=JhR5v8BPRyvHy7yh
+
+https://youtu.be/laeOmNDE-Ac?si=2lmo7ZBL0CY3gadR
